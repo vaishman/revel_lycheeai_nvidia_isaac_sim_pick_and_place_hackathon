@@ -1,0 +1,39 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/leo/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/leo/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/leo/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/leo/ros2_ws/install/image_conversion_pkg/lib/python3.10/site-packages",
+        "/home/leo/ros2_ws/install/g1_control/lib/python3.10/site-packages",
+        "/home/leo/ws_moveit2/install/ur_robot_driver/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/ur_msgs/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/ur_moveit_config/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/moveit_task_constructor_core/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/home/leo/ws_moveit2/install/srdfdom/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/launch_param_builder/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/leo/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/leo/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/home/leo/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/leo/ros2_ws/install/image_conversion_pkg/lib/python3.10/site-packages",
+        "/home/leo/ros2_ws/install/g1_control/lib/python3.10/site-packages",
+        "/home/leo/ws_moveit2/install/ur_robot_driver/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/ur_msgs/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/ur_moveit_config/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/moveit_task_constructor_core/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/home/leo/ws_moveit2/install/srdfdom/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/leo/ws_moveit2/install/launch_param_builder/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
